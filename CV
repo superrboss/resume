@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Osama Abdelshafy - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #444;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 5px 0;
+        }
+        .contact a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Osama Ahmed Abdelshafy Abdelghfar</h1>
+        <h2>Software Engineer</h2>
+        <div class="contact">
+            <p>Email: <a href="mailto:osama1054231@gmail.com">osama1054231@gmail.com</a></p>
+            <p>Phone: <a href="tel:+201024559128">+201024559128</a></p>
+            <p>GitHub: <a href="https://github.com/superrboss" target="_blank">https://github.com/superrboss</a></p>
+            <p>Location: Cairo</p>
+        </div>
+
+        <h3>Profile</h3>
+        <p>Aspiring software engineer with a strong foundation in computer science and a passion for developing scalable, efficient, and user-centric applications. Proficient in full-stack development, with expertise in Angular, ASP.NET, and modern web technologies. Looking for a challenging position to apply and expand my technical skills while contributing to impactful projects.</p>
+
+        <h3>Education</h3>
+        <p>Bachelor of Computer Science, Tanta University (09/2019 – 05/2023) | Tanta, Egypt</p>
+        <p><strong>Graduation Project:</strong> Mobile application for collecting donations for the needy (Role: Backend Developer, Node.js). <strong>Grade:</strong> Excellent</p>
+
+        <h3>Projects</h3>
+        <ul>
+            <li><strong>Electronics Store:</strong> Built using Angular, Microsoft SQL, JWT, JavaScript, jQuery, .Net Core, and Web API. Features product management, invoice printing, and order management.</li>
+            <li><strong>Coffo Cafe:</strong> Developed using MVC C#, Microsoft SQL, JavaScript, jQuery, .Net Core, and Web API. Includes product reviews, order management, and admin functionality.</li>
+            <li><strong>Medicine Store:</strong> A platform for managing drugs where only admins can add new items.</li>
+            <li><strong>GameZone:</strong> A store displaying various electronic games and supported devices.</li>
+        </ul>
+
+        <h3>Skills</h3>
+        <ul>
+            <li>C#</li>
+            <li>ASP.NET MVC</li>
+            <li>SQL</li>
+            <li>Microsoft SQL Server</li>
+            <li>Angular for frontend development</li>
+            <li>JavaScript</li>
+            <li>OOP</li>
+            <li>Entity Framework</li>
+            <li>Database Management</li>
+            <li>HTML & CSS</li>
+        </ul>
+
+        <h3>Courses</h3>
+        <ul>
+            <li>Mobile Application Developer (2019 – 2020), Camp Coding Center</li>
+            <li>ASP.NET (02/2024 – 08/2024), Repoteq</li>
+        </ul>
+
+        <h3>Languages</h3>
+        <ul>
+            <li>Arabic</li>
+            <li>English</li>
+        </ul>
+
+        <h3>Personal Skills</h3>
+        <ul>
+            <li>Teamwork oriented</li>
+            <li>Self-motivated</li>
+            <li>Ability to work under pressure</li>
+            <li>Eager to learn and upgrade skills</li>
+            <li>Open to working abroad</li>
+        </ul>
+    </div>
+</body>
+</html>
